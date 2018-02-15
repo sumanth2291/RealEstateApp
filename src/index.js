@@ -7,7 +7,7 @@ import App from "./components/app";
 
 const renderApp = Component =>
 	render(
-		<Component />,
+			<Component />,
 		document.getElementById("root")
 	);
 
